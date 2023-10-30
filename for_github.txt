@@ -4,4 +4,5 @@ test file
 333
 test1
 delete test2
+add test4
 add test3
