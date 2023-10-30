@@ -3,4 +3,5 @@ test file
 222
 333
 test1
-test2
+delete test2
+add test3
